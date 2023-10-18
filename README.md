@@ -1,6 +1,8 @@
-### Hi there 👋
+ ###  💜 Sejam Bem vindo ao meu perfil 💜
+🌻 Meu nome é Leticia 🌻
 
-<!--
-**Flower-Branches/Flower-Branches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Estou estudando na Alura
+ - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-Here are some ideas to g
+ ### Você pode entrar em contato comigo 📫
+ rosa.ramos.leticia@esola.pr.gov.br
